@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.0",
-    "url":  "https://github.com/WalnutAPeanut/DataTool-releases/releases/download/v1.0.0/TableTool.zip",
-    "notes":  "초기화 후 첫 번째 정상 버전 (.NET 8 데스크톱 런타임 설치 필요: https://dotnet.microsoft.com/download/dotnet/8.0)",
-    "sha256":  "A056D1A369476E788E2A504B1DDDF1DDB0BA517CBBAFBDAF4D0521DF78F3AAD1"
+    "version":  "1.0.1",
+    "url":  "https://github.com/WalnutAPeanut/DataTool-releases/releases/download/v1.0.1/TableTool.zip",
+    "notes":  "1.0.1 업데이트 [.NET 8 데스크톱 런타임 설치 필요: https://dotnet.microsoft.com/download/dotnet/8.0]",
+    "sha256":  "43B7F2DC31C618ECA3D206C1EB1F89410982E5A2492667D17691D7A3DA318A58"
 }
