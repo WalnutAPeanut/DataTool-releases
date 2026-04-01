@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.0",
-    "url":  "https://github.com/WalnutAPeanut/DataTool-releases/releases/download/v1.0.0/TableTool.zip",
-    "notes":  "초기화 후 첫 번째 정상 버전 [런타임 포함 모드: .NET 8 설치 없이 즉시 실행 가능]",
-    "sha256":  "84782906C19C6C88834CF8BF6BD9AD813191C94B7AE2ECEE1833AA8DBFCE9BCB"
+    "version":  "1.0.1",
+    "url":  "https://github.com/WalnutAPeanut/DataTool-releases/releases/download/v1.0.1/TableTool.zip",
+    "notes":  "문자열 배열 링크 검사 추가 [self-contained .NET 8 build]",
+    "sha256":  "28C2FE93E5B4DC126255ACB16B3EE955FBFCFC6D719DE0D2C71F67CBFEBF2B6D"
 }
